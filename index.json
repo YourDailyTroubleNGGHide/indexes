@@ -1,7 +1,7 @@
 {
   "User": {
     "Key": "key123",
-    "Expired": False,
+    "Expired": false,
     "ExpiredText": ""
   },
-?
+}
